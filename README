@@ -1,0 +1,41 @@
+# Práctica MongoDB y Node.js
+
+## Descripción
+
+Este proyecto forma parte de las prácticas de formación en Administración de Sistemas Informáticos en Red (ASIR).
+
+El objetivo es aprender a trabajar con bases de datos NoSQL utilizando MongoDB y Node.js, realizando diferentes operaciones para gestionar una pequeña biblioteca de libros.
+
+## Contenidos trabajados
+
+- Conexión de Node.js con MongoDB.
+- Consulta y listado de documentos.
+- Inserción de nuevos libros.
+- Búsqueda de libros por género.
+- Actualización de la disponibilidad de ejemplares.
+- Consulta de estadísticas de la colección.
+
+## Tecnologías utilizadas
+
+- JavaScript
+- Node.js
+- MongoDB
+- Visual Studio Code
+
+## Estructura del proyecto
+
+- `conexion.js`: conexión con MongoDB.
+- `listar.js`: listado de libros.
+- `insertar.js`: inserción de libros.
+- `buscar.js`: búsqueda por género.
+- `prestar.js`: actualización de disponibilidad.
+- `estadisticas.js`: consulta de estadísticas.
+- `package.json`: configuración y dependencias del proyecto.
+
+## Objetivo de aprendizaje
+
+Comprender el funcionamiento de MongoDB y aprender a interactuar con una base de datos desde Node.js mediante operaciones básicas de gestión de información.
+
+---
+
+Proyecto académico · ASIR
